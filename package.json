@@ -1,0 +1,30 @@
+{
+  "name": "Sistema-Operadora-Saude",
+  "version": "1.0.0",
+  "main": "src/server/index.js",
+  "repository": "https://github.com/Shothogun/Sistema-Operadora-Saude.git",
+  "author": "Otho Teixeira <otho.tk@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-react": "^7.12.10",
+    "body-parser": "^1.19.0",
+    "buffer": "^6.0.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3",
+    "path": "^0.12.7",
+    "util": "^0.12.3",
+    "webpack-cli": "^4.3.1"
+  },
+  "devDependencies": {
+    "add": "^2.0.6",
+    "nodemon": "^2.0.6",
+    "yarn": "^1.22.10"
+  }
+}

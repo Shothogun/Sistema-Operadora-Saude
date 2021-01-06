@@ -10,8 +10,8 @@
   "author": "Otho Teixeira <otho.tk@hotmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node src/server/index.js",
-    "dev": "nodemon src/server/index.js"
+    "start": "node server/index.js",
+    "dev": "nodemon server/index.js"
   },
   "dependencies": {
     "@babel/cli": "^7.12.10",

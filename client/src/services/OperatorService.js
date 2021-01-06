@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const url = 'http://localhost:5000/api/operators';
+const url = 'api/operators/';
 
 class OperatorService {
   static getOperators() {

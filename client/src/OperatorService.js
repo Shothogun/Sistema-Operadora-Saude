@@ -11,18 +11,10 @@ class OperatorService {
           data
         );
       })
-      .catch((error) => {
-        reject(error);
-      })
+        .catch((error) => {
+          reject(error);
+        })
     });
-  }
-
-  static searchOperator(razaoSocial) {
-    return axios.get(`${url}/search`, {
-      params: {
-        razaoSocial: razaoSocial
-      }
-    })
   }
 }
 

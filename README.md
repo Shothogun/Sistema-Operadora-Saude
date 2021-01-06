@@ -31,5 +31,10 @@ Para a execução do front, entre na pasta `/client` e execute:
 Como parte do sistema integrado do `front + back`, ambos servidores devem estar rodando 
 juntos simultaneamente. O front roda na rota `http://localhost:8080/`.
 
+Para acessar a aplicação, basta acessar a rota `http://localhost:8080/`. 
+
+Na barra de pesquisa, é possível pesquisar a razão social das operadoras de saúde, 
+filtrando os resultados disponibilizados.
+
 ### Credits
 elephant clipart PNG Designed By Mark1987 from <a href="https://pngtree.com">Pngtree.com</a>

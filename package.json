@@ -13,6 +13,7 @@
     "@babel/core": "^7.12.10",
     "@babel/preset-env": "^7.12.11",
     "@babel/preset-react": "^7.12.10",
+    "@vue/cli": "^4.5.9",
     "body-parser": "^1.19.0",
     "buffer": "^6.0.3",
     "cors": "^2.8.5",

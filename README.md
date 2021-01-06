@@ -5,6 +5,15 @@ Projeto Vue.JS de um sistema simples voltado a busca e consulta de operadoras da
 
 ## Execução
 
+### Configuração
+
+O projeto desenvolvido utiliza o `Node.js` na versão `10.18` e a framework do `@vue/cli` 
+na sua versão `4.5.9`.
+
+Para instalar as dependencias, executar na pasta raiz:
+
+```$ yarn install```
+
 ### Backend
 
 No ambiente Linux, basta estar na pasta root do projeto e digitar via terminal:

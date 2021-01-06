@@ -1,7 +1,9 @@
 # Sistema Operadora de Saude (Teste 4)
-![Hex.pm](https://img.shields.io/badge/node-%3E%3D%2010.18-blue?logo=Node.js&link=https://nodejs.org/en/) ![vue.pm](https://img.shields.io/badge/node-%3E%3D%204.5.9-blue?logo=Vue.js)
+![Hex.pm](https://img.shields.io/badge/node-%3E%3D%2010.18-blue?logo=Node.js&link=https://nodejs.org/en/) ![vue.pm](https://img.shields.io/badge/vue-%3E%3D%204.5.9-blue?logo=Vue.js)
 
-Projeto Vue.JS de um sistema simples voltado a busca e consulta de operadoras da area de saude no Brasil
+Projeto Vue.JS de um sistema simples voltado a busca e consulta de operadoras da area de saude no Brasil.
+
+Url do projeto em produção: https://morning-waters-17319.herokuapp.com/
 
 ## Execução
 

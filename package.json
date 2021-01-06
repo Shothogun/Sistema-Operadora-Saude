@@ -1,11 +1,16 @@
 {
   "name": "Sistema-Operadora-Saude",
   "version": "1.0.0",
+  "engines": {
+    "node": "10.18.1",
+    "yarn": "1.22.5"
+  },
   "main": "src/server/index.js",
   "repository": "https://github.com/Shothogun/Sistema-Operadora-Saude.git",
   "author": "Otho Teixeira <otho.tk@hotmail.com>",
   "license": "MIT",
   "scripts": {
+    "start": "node index.js",
     "dev": "nodemon"
   },
   "dependencies": {
